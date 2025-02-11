@@ -1,0 +1,5 @@
+1 apple 300 2 10
+2 orange 350 10 18
+3 tea 50 0 75
+5 salt 30 2 120
+6 beans 90 1 35
